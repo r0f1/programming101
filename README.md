@@ -116,7 +116,15 @@
 + Kruskal / Prim
 
 
+# Some classical NP hard problems
 
++ Travelling salesman
++ Vertex cover / Independent set
++ Bin packing
++ Knacksack packing
++ Graph coloring
+
+Wikipedia list: [link](https://en.wikipedia.org/wiki/List_of_NP-complete_problems)
 	
 	
 
