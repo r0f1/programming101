@@ -42,6 +42,15 @@
 * frame *
 *********
 ```
++ Print a christmas tree, given its width. If width=7:
+```
+   *
+  ***
+ *****
+*******
+   *
+```
+
 
 ## Dictionaries
 
