@@ -11,6 +11,7 @@
 + Write a program that prints all **prime numbers**.
 + Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed.
 + Write a program that prints the next 20 leap years.
++ Write a program the checks if a given bank account number (IBAN) or book number (ISBN) is correct according to their respective checksums.
 
 ## Intermediate
 
@@ -41,6 +42,12 @@
 * frame *
 *********
 ```
+
+## Dictionaries
+
++ Write a program, that takes numbers as words (one, two, ..., nine) and translates them to german words (eins, zwei, ..., neun).
++ Given a set of supermarket items ("apple", "banana") and their prices in EUR (2.5, 3). Print the sum of a list of items. For example ["apple", "apple", "banana", "apple"] should print 10.50 EUR.
+
 
 ## Recursion
 
