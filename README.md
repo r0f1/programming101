@@ -1,7 +1,8 @@
 ## Python Resources
 
 [Whirlwind Tour](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)  
-[Non-Programmer's Tutorial](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+[Cheatsheet](https://gto76.github.io/python-cheatsheet/)  
+[Non-Programmer's Tutorial](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)  
 
 ## Exercises
 
